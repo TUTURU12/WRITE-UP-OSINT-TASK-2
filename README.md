@@ -12,7 +12,7 @@ HINT : Syah left some review on the internet
 
 Answer: 
 
-so first i go to google and search for some simmilar place like that picture , then i open review on facebook and i found the flag
+so first i go to google and search for some simmilar place like that picture , then i open review on facebook and i found the flag.
 ![image](https://github.com/user-attachments/assets/774e497a-8de2-49e1-99f5-a915334ff7fa)
 
 ![image](https://github.com/user-attachments/assets/7abccae6-b8e2-44f7-ba8c-adf9ed9b86ad)
@@ -102,7 +102,17 @@ Flag Format: IBOH24{}
 
 Answer : 
 
-so first i need to know where place the part of art are be created, so i go to the google and i found some simmilar art like mine too 
+so first i need to know where place the part of art are be created, so i go to the google and i found some simmilar art like that one,then i saw some post about the location that sama like that picture and then i got the flag.
+
+
+![image](https://github.com/user-attachments/assets/2c4beef7-0eb5-405c-b710-83466611acbb)
+
+![image](https://github.com/user-attachments/assets/8d68f766-c05a-4dcf-8199-fe69254be473)
+
+![image](https://github.com/user-attachments/assets/4f59888d-8a7d-40af-9217-d23be6752e4d)
+
+
+Flag : IBOH14{Haneda_Airport}
 
 
 
