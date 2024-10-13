@@ -61,7 +61,8 @@ fisrtly i go to google and reserch about name of that artist that make the art, 
 
 ![image](https://github.com/user-attachments/assets/f262bd40-7bf7-47e3-bb5b-f83ce66dac10)
 
-![image](https://github.com/user-attachments/assets/87113160-8b2d-4c53-9c1a-f1a95e5e3e58)
+![image](https://github.com/user-attachments/assets/8ac34a3f-036c-462c-862f-7f49f69db566)
+
 
 Flag : IBOH24{583920}
 
